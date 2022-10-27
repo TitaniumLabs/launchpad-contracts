@@ -1,1 +1,4 @@
-# launchpad-contracts
+# Titanium Labs Contracts
+
+
+## Mint Factory Specifications

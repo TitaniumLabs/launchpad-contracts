@@ -1,0 +1,16 @@
+[package]
+name = "mint_factory"
+version = "1.0.0"
+
+[dependencies]
+MoveStdlib = { local = "/Users/rayhan/aptos-core/aptos-move/framework/move-stdlib" }
+AptosFramework = { local = "/Users/rayhan/aptos-core/aptos-move/framework/aptos-framework" }
+AptosToken = { local = "/Users/rayhan/aptos-core/aptos-move/framework/aptos-token"}
+DataStructure = {local = "/Users/rayhan/aptos-core/aptos-move/move-examples/data_structures"}
+
+
+[addresses]
+std =  "0x1"
+aptos_framework = "0x1"
+aptos_token = "0x3"
+titanium_labs = "0x4"
